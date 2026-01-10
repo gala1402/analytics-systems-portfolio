@@ -32,7 +32,7 @@ repeatable, high-stakes decisions.
 - Delivered analytics that influenced **multi-million-dollar budget allocations,
   service recovery, and operational planning**
 
-(Details in resume: Customer Experience, Lending, Financial Services) :contentReference[oaicite:0]{index=0}
+(Details in resume: Customer Experience, Lending, Financial Services)
 
 ---
 
