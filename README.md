@@ -1,6 +1,6 @@
 # Darshan Gala — Analytics & Applied AI Portfolio
 
-Senior Data Analyst / Data Enthusiast with 7+ years of experience building
+Analytics Engineer / Data Enthusiast with 7+ years of experience building
 decision-grade analytics, experimentation frameworks, and applied AI solutions
 across customer experience, lending, and financial services.
 
