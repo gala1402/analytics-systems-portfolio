@@ -65,7 +65,7 @@ validation.
 **What I built:**  
 A GenAI-enabled analytics copilot that converts natural-language questions into
 **validated, governed SQL** using a metric layer, query validation, and result
-summarization. Designed to prevent hallucinations and support trustworthy
+summarisation. Designed to prevent hallucinations and support trustworthy
 self-serve analytics.
 
 ---
@@ -85,8 +85,8 @@ estimation to support confident product and CX decisions.
 ---
 
 ## 🧠 Design Philosophy
-Across all projects, I prioritize:
-- Clear problem framing before modeling
+Across all projects, I prioritise:
+- Clear problem framing before modelling
 - SQL where data naturally lives
 - Interpretable ML and explainable metrics
 - Analytics systems that scale across teams
@@ -107,7 +107,7 @@ platforms**, not academic exercises or tutorials.
 ---
 
 ## 📫 Connect
-- **Portfolio:** https://github.com/gala1402/darshan-gala-analytics-ai-portfolio
+- **Portfolio:** https://github.com/gala1402/analytics-systems-portfolio
 - **LinkedIn:** https://www.linkedin.com/in/darshangala14
 - **Email:** gala.darshan14@gmail.com
 
