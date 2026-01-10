@@ -40,7 +40,7 @@ repeatable, high-stakes decisions.
 
 ### 1. Customer Churn Prediction (SQL + ML)
 **Repository:**  
-👉 https://github.com/YOUR_USERNAME/customer-churn-prediction
+👉 https://github.com/gala1402/customer-churn-prediction
 
 **Why it matters:**  
 Churn modeling remains one of the most common — and most misused — applications
@@ -56,7 +56,7 @@ ensure outputs are actionable for retention strategy, not just predictive.
 
 ### 2. LLM-Powered Analytics Copilot (GenAI + Governance)
 **Repository:**  
-👉 https://github.com/YOUR_USERNAME/llm-analytics-copilot
+👉 https://github.com/gala1402/llm-analytics-copilot
 
 **Why it matters:**  
 “Chat with your data” is trending — but unsafe without metric governance and
@@ -72,7 +72,7 @@ self-serve analytics.
 
 ### 3. Causal Impact & Experimentation Analytics Platform
 **Repository:**  
-👉 https://github.com/YOUR_USERNAME/causal-impact-analytics
+👉 https://github.com/gala1402/causal-impact-analytics
 
 **Why it matters:**  
 Modern product teams need **causal answers**, not just A/B test p-values.
@@ -107,7 +107,7 @@ platforms**, not academic exercises or tutorials.
 ---
 
 ## 📫 Connect
-- **Portfolio:** https://github.com/YOUR_USERNAME/darshan-gala-analytics-ai-portfolio
+- **Portfolio:** https://github.com/gala1402/darshan-gala-analytics-ai-portfolio
 - **LinkedIn:** https://www.linkedin.com/in/darshangala14
 - **Email:** gala.darshan14@gmail.com
 
