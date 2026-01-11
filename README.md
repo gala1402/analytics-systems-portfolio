@@ -10,7 +10,7 @@ interpretability, and real business impact.
 
 ---
 
-## 🔍 What I Focus On (2024–2026 Analytics Trends)
+## 🔍 What I have been Focusing On? (2024–2026 Analytics Trends)
 - **SQL-first analytics engineering** and metric governance
 - **Applied machine learning** with interpretability (not black-box models)
 - **GenAI in analytics workflows** (LLMs with guardrails, evaluation, and monitoring)
