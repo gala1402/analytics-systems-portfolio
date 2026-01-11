@@ -23,6 +23,7 @@ repeatable, high-stakes decisions.
 ---
 
 ## 🧠 Professional Background (Snapshot)
+
 - Built and deployed **SQL + Python analytics pipelines** supporting GenAI-powered
   contact-center operations and customer compensation decisions
 - Owned **forecasting, capacity modeling, and financial analytics** used by
@@ -32,7 +33,7 @@ repeatable, high-stakes decisions.
 - Delivered analytics that influenced **multi-million-dollar budget allocations,
   service recovery, and operational planning**
 
-(Details in resume: Customer Experience, Lending, Financial Services)
+(Details in resume: Customer Experience, Lending, Financial Services, Aviation)
 
 ---
 
